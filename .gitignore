@@ -5,6 +5,10 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# Solutions & Final
+solutions/
+final/
+
 # Runtime data
 pids
 *.pid
@@ -62,7 +66,3 @@ typings/
 
 # VSCode settings
 .vscode/
-
-# Solutions & Final
-solutions/
-final/
